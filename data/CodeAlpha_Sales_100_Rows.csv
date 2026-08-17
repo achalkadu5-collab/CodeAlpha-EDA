@@ -1,0 +1,101 @@
+Order_ID,Date,Product,Category,Region,Sales,Quantity,Profit
+ORD001,2026-01-01,Mouse,Electronics,North,4000,5,486.53
+ORD002,2026-01-02,Keyboard,Electronics,North,13500,9,1279.52
+ORD003,2026-01-03,Desk,Furniture,North,7000,1,671.5
+ORD004,2026-01-04,Headphones,Electronics,North,22500,9,2560.55
+ORD005,2026-01-05,Pen Set,Stationery,West,1000,4,156.37
+ORD006,2026-01-06,Monitor,Electronics,North,36000,3,7152.61
+ORD007,2026-01-07,Office Chair,Furniture,East,27000,3,3148.29
+ORD008,2026-01-08,Office Chair,Furniture,North,18000,2,2602.58
+ORD009,2026-01-09,Office Chair,Furniture,East,90000,10,11247.17
+ORD010,2026-01-10,Laptop,Electronics,West,495000,9,50104.12
+ORD011,2026-01-11,Desk,Furniture,North,63000,9,8179.94
+ORD012,2026-01-12,Backpack,Accessories,East,18000,10,2028.4
+ORD013,2026-01-13,Mouse,Electronics,North,3200,4,676.55
+ORD014,2026-01-14,Mouse,Electronics,South,1600,2,231.39
+ORD015,2026-01-15,Notebook,Stationery,East,450,3,64.32
+ORD016,2026-01-16,Headphones,Electronics,East,5000,2,917.76
+ORD017,2026-01-17,Keyboard,Electronics,South,4500,3,713.63
+ORD018,2026-01-18,Monitor,Electronics,South,72000,6,16076.51
+ORD019,2026-01-19,Laptop,Electronics,South,55000,1,11927.18
+ORD020,2026-01-20,Desk,Furniture,East,14000,2,1622.14
+ORD021,2026-01-21,Backpack,Accessories,East,7200,4,1378.26
+ORD022,2026-01-22,Desk,Furniture,West,21000,3,2625.62
+ORD023,2026-01-23,Headphones,Electronics,East,25000,10,3820.84
+ORD024,2026-01-24,Backpack,Accessories,West,10800,6,1266.67
+ORD025,2026-01-25,Keyboard,Electronics,West,3000,2,625.45
+ORD026,2026-01-26,Mouse,Electronics,South,2400,3,515.17
+ORD027,2026-01-27,Desk,Furniture,North,49000,7,7098.89
+ORD028,2026-01-28,Notebook,Stationery,East,1350,9,305.55
+ORD029,2026-01-29,Laptop,Electronics,North,495000,9,102786.37
+ORD030,2026-01-30,Office Chair,Furniture,North,45000,5,6925.95
+ORD031,2026-01-31,Notebook,Stationery,North,750,5,183.92
+ORD032,2026-02-01,Keyboard,Electronics,North,7500,5,1673.13
+ORD033,2026-02-02,Pen Set,Stationery,South,750,3,107.67
+ORD034,2026-02-03,Keyboard,Electronics,North,15000,10,2026.6
+ORD035,2026-02-04,Laptop,Electronics,North,330000,6,75696.3
+ORD036,2026-02-05,Monitor,Electronics,South,12000,1,1451.38
+ORD037,2026-02-06,Backpack,Accessories,North,3600,2,735.93
+ORD038,2026-02-07,Mouse,Electronics,South,2400,3,461.18
+ORD039,2026-02-08,Pen Set,Stationery,South,1250,5,212.13
+ORD040,2026-02-09,Backpack,Accessories,West,7200,4,1712.99
+ORD041,2026-02-10,Headphones,Electronics,East,17500,7,4360.57
+ORD042,2026-02-11,Office Chair,Furniture,West,81000,9,12696.96
+ORD043,2026-02-12,Headphones,Electronics,South,5000,2,687.37
+ORD044,2026-02-13,Backpack,Accessories,South,18000,10,2113.87
+ORD045,2026-02-14,Mouse,Electronics,North,3200,4,292.67
+ORD046,2026-02-15,Laptop,Electronics,East,110000,2,18414.72
+ORD047,2026-02-16,Monitor,Electronics,West,48000,4,8240.15
+ORD048,2026-02-17,Backpack,Accessories,West,7200,4,1536.37
+ORD049,2026-02-18,Desk,Furniture,South,14000,2,1350.7
+ORD050,2026-02-19,Desk,Furniture,East,49000,7,7344.48
+ORD051,2026-02-20,Laptop,Electronics,North,55000,1,8164.51
+ORD052,2026-02-21,Office Chair,Furniture,North,36000,4,4052.53
+ORD053,2026-02-22,Pen Set,Stationery,West,750,3,113.79
+ORD054,2026-02-23,Monitor,Electronics,West,48000,4,10975.81
+ORD055,2026-02-24,Mouse,Electronics,West,7200,9,695.84
+ORD056,2026-02-25,Pen Set,Stationery,North,500,2,118.74
+ORD057,2026-02-26,Headphones,Electronics,South,17500,7,2844.78
+ORD058,2026-02-27,Headphones,Electronics,West,2500,1,269.97
+ORD059,2026-02-28,Laptop,Electronics,West,275000,5,65314.72
+ORD060,2026-03-01,Notebook,Stationery,East,1050,7,208.34
+ORD061,2026-03-02,Pen Set,Stationery,West,750,3,84.21
+ORD062,2026-03-03,Headphones,Electronics,North,25000,10,5126.88
+ORD063,2026-03-04,Laptop,Electronics,East,55000,1,4868.83
+ORD064,2026-03-05,Notebook,Stationery,South,150,1,36.5
+ORD065,2026-03-06,Mouse,Electronics,South,1600,2,289.85
+ORD066,2026-03-07,Headphones,Electronics,West,5000,2,1200.36
+ORD067,2026-03-08,Backpack,Accessories,South,18000,10,3259.23
+ORD068,2026-03-09,Backpack,Accessories,North,12600,7,2416.09
+ORD069,2026-03-10,Backpack,Accessories,East,9000,5,1032.52
+ORD070,2026-03-11,Office Chair,Furniture,South,45000,5,6627.76
+ORD071,2026-03-12,Monitor,Electronics,West,72000,6,17131.18
+ORD072,2026-03-13,Mouse,Electronics,North,6400,8,1187.82
+ORD073,2026-03-14,Backpack,Accessories,North,3600,2,617.03
+ORD074,2026-03-15,Pen Set,Stationery,East,750,3,178.99
+ORD075,2026-03-16,Mouse,Electronics,South,4800,6,616.55
+ORD076,2026-03-17,Notebook,Stationery,East,1500,10,370.88
+ORD077,2026-03-18,Pen Set,Stationery,North,2250,9,294.51
+ORD078,2026-03-19,Mouse,Electronics,South,4000,5,398.49
+ORD079,2026-03-20,Mouse,Electronics,South,4000,5,511.59
+ORD080,2026-03-21,Headphones,Electronics,East,10000,4,1968.75
+ORD081,2026-03-22,Monitor,Electronics,West,60000,5,14034.43
+ORD082,2026-03-23,Laptop,Electronics,North,385000,7,85080.83
+ORD083,2026-03-24,Laptop,Electronics,North,330000,6,69659.79
+ORD084,2026-03-25,Monitor,Electronics,South,96000,8,16683.42
+ORD085,2026-03-26,Desk,Furniture,North,14000,2,1299.08
+ORD086,2026-03-27,Keyboard,Electronics,North,9000,6,1611.24
+ORD087,2026-03-28,Keyboard,Electronics,West,4500,3,392.0
+ORD088,2026-03-29,Office Chair,Furniture,North,54000,6,6248.5
+ORD089,2026-03-30,Headphones,Electronics,North,15000,6,3189.3
+ORD090,2026-03-31,Desk,Furniture,South,28000,4,6355.52
+ORD091,2026-04-01,Keyboard,Electronics,West,1500,1,165.74
+ORD092,2026-04-02,Office Chair,Furniture,West,36000,4,4512.85
+ORD093,2026-04-03,Mouse,Electronics,West,800,1,180.77
+ORD094,2026-04-04,Headphones,Electronics,South,20000,8,2788.84
+ORD095,2026-04-05,Headphones,Electronics,South,2500,1,480.51
+ORD096,2026-04-06,Desk,Furniture,East,35000,5,7942.9
+ORD097,2026-04-07,Monitor,Electronics,East,108000,9,15978.1
+ORD098,2026-04-08,Pen Set,Stationery,East,250,1,24.9
+ORD099,2026-04-09,Monitor,Electronics,South,120000,10,29235.7
+ORD100,2026-04-10,Monitor,Electronics,North,24000,2,4354.01

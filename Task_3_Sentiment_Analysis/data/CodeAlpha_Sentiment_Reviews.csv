@@ -1,0 +1,101 @@
+Review_ID,Product,Review,Rating
+R001,Wireless Earbuds,The sound quality is excellent and the battery lasts all day.,5
+R002,Wireless Earbuds,Very comfortable and easy to connect. I love these earbuds.,5
+R003,Wireless Earbuds,The audio is clear but the charging case feels cheap.,3
+R004,Wireless Earbuds,Stopped working after one week. Very disappointing.,1
+R005,Wireless Earbuds,Amazing sound for the price. Highly recommended.,5
+R006,Smartphone,The camera takes beautiful photos and the phone is fast.,5
+R007,Smartphone,"Battery life is good, but the phone gets warm sometimes.",3
+R008,Smartphone,The screen broke easily and customer service was unhelpful.,1
+R009,Smartphone,Excellent performance and a beautiful display.,5
+R010,Smartphone,"It is okay for everyday use, nothing special.",3
+R011,Laptop,Very fast laptop with a great keyboard.,5
+R012,Laptop,The laptop is slow when running multiple applications.,2
+R013,Laptop,Good build quality and excellent performance.,5
+R014,Laptop,The fan is too noisy and the battery drains quickly.,2
+R015,Laptop,I am satisfied with this laptop for college work.,4
+R016,Headphones,Comfortable headphones with powerful bass.,5
+R017,Headphones,The sound is average and the ear cushions are uncomfortable.,3
+R018,Headphones,Terrible product. The left side stopped working.,1
+R019,Headphones,Fantastic noise cancellation and great sound.,5
+R020,Headphones,"Works well, but the microphone quality could be better.",3
+R021,Smartwatch,The watch looks stylish and tracks my activities accurately.,5
+R022,Smartwatch,"The battery lasts only one day, which is disappointing.",2
+R023,Smartwatch,Useful features and a bright display.,4
+R024,Smartwatch,The app crashes frequently and syncing is frustrating.,1
+R025,Smartwatch,Good value and easy to use.,4
+R026,Keyboard,Keys feel smooth and typing is comfortable.,5
+R027,Keyboard,The keyboard works fine but feels a little basic.,3
+R028,Keyboard,Several keys stopped working after a month.,1
+R029,Keyboard,Excellent keyboard for programming and office work.,5
+R030,Keyboard,The design is nice but the software is confusing.,3
+R031,Mouse,Very responsive and comfortable for long hours.,5
+R032,Mouse,The scroll wheel feels loose.,2
+R033,Mouse,Simple and reliable mouse. Great purchase.,5
+R034,Mouse,Stopped connecting randomly. Not happy with it.,1
+R035,Mouse,It does what it promises at a reasonable price.,4
+R036,Tablet,The display is bright and the tablet is very responsive.,5
+R037,Tablet,"Good for watching videos, but the speakers are weak.",3
+R038,Tablet,The tablet became extremely slow after a few weeks.,2
+R039,Tablet,Excellent device for reading and studying.,5
+R040,Tablet,I expected much better quality for this price.,2
+R041,Power Bank,Charges my phone quickly and has a large capacity.,5
+R042,Power Bank,It is bulky but works as expected.,3
+R043,Power Bank,The power bank stopped charging after a few days.,1
+R044,Power Bank,Great product for travel and emergencies.,5
+R045,Power Bank,Charging speed is average.,3
+R046,USB Cable,Strong cable with fast charging support.,5
+R047,USB Cable,The cable is too short for my setup.,3
+R048,USB Cable,It stopped working within two weeks.,1
+R049,USB Cable,Excellent quality and durable material.,5
+R050,USB Cable,"It works, but the connector feels loose.",3
+R051,Bluetooth Speaker,Loud sound and impressive bass.,5
+R052,Bluetooth Speaker,The speaker sounds distorted at high volume.,2
+R053,Bluetooth Speaker,Perfect for small parties and outdoor use.,5
+R054,Bluetooth Speaker,Battery performance is disappointing.,2
+R055,Bluetooth Speaker,Decent speaker for the price.,4
+R056,Monitor,The colors are vibrant and the resolution is excellent.,5
+R057,Monitor,"Good monitor, although the stand is not very stable.",3
+R058,Monitor,The screen arrived damaged and support was slow.,1
+R059,Monitor,Excellent for coding and office work.,5
+R060,Monitor,The brightness is acceptable but not impressive.,3
+R061,Webcam,Clear video quality and easy setup.,5
+R062,Webcam,The image looks blurry in low light.,2
+R063,Webcam,Works perfectly for online meetings.,5
+R064,Webcam,The microphone stopped working unexpectedly.,1
+R065,Webcam,Average camera with simple controls.,3
+R066,Printer,Print quality is excellent and setup was easy.,5
+R067,Printer,Ink runs out quickly and replacement cartridges are expensive.,2
+R068,Printer,Good printer for home use.,4
+R069,Printer,Paper jams happen almost every time.,1
+R070,Printer,The printer is okay for occasional documents.,3
+R071,Router,Fast internet speed and stable connection.,5
+R072,Router,Setup was confusing but performance is good.,4
+R073,Router,Connection drops several times a day.,1
+R074,Router,Range is average but acceptable.,3
+R075,Router,Excellent router with reliable performance.,5
+R076,Power Adapter,Charges quickly and does not overheat.,5
+R077,Power Adapter,The adapter is heavier than expected.,3
+R078,Power Adapter,It stopped working after a short time.,1
+R079,Power Adapter,"Compact, reliable and useful for travel.",5
+R080,Power Adapter,Charging speed is okay.,3
+R081,Fitness Band,Accurate step tracking and comfortable design.,5
+R082,Fitness Band,The screen is too small to read comfortably.,2
+R083,Fitness Band,Good features for the price.,4
+R084,Fitness Band,The band broke after a few weeks.,1
+R085,Fitness Band,It works well for basic fitness tracking.,3
+R086,Gaming Mouse,Very precise and responsive for gaming.,5
+R087,Gaming Mouse,The buttons are too stiff.,2
+R088,Gaming Mouse,Excellent performance and comfortable grip.,5
+R089,Gaming Mouse,Software installation was frustrating.,2
+R090,Gaming Mouse,Good gaming mouse with useful buttons.,4
+R091,Mechanical Keyboard,Amazing typing experience and great build quality.,5
+R092,Mechanical Keyboard,The keys are louder than I expected.,3
+R093,Mechanical Keyboard,Several switches became faulty.,1
+R094,Mechanical Keyboard,Fantastic keyboard for programming.,5
+R095,Mechanical Keyboard,Good keyboard but the software needs improvement.,3
+R096,Phone Case,Strong protection and a nice design.,5
+R097,Phone Case,The case is bulky and difficult to remove.,2
+R098,Phone Case,Fits perfectly and looks great.,5
+R099,Phone Case,The material feels cheap.,2
+R100,Phone Case,Simple case that does the job.,4
